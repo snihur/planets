@@ -1,3 +1,4 @@
 cold and dry, but everything
 New change made in /tmp directory
-We are adding a different line to our tmp copy
+We removed the conflict on this line.
+

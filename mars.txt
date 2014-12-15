@@ -1,2 +1,3 @@
 cold and dry, but everything
 New change made in /tmp directory
+This line is added in our home copy
